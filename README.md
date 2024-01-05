@@ -1,5 +1,5 @@
-# STA304 - Fall 2021 Assignment 1
-**Author:** Yutong Lu 1005738356
+# Impact of COVID-19 on Mobile Gaming Spending in Canada: Survey Design and Analysis
+**Author:** Yutong Lu
 
 ## Overview
 This survey explores the impact of the COVID-19 pandemic on the spending behaviors of mobile game players in Canada, focusing on in-game purchases.
